@@ -2,7 +2,7 @@
   "homepage": "http://adisa-stack1.github.io/keeper-app",
   "name": "using-pre-built-react-components",
   "version": "1.0.0",
-  "description": "",
+  "description": "Created with CodeSandbox",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -23,7 +23,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
@@ -33,5 +33,14 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adisa-stack1/keeper-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adisa-stack1/keeper-app/issues"
+  }
 }
